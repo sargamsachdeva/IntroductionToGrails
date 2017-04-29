@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ttn.linksharingbootcamp.TopicSpec" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-04-27T10:32:55" hostname="sargam-sachdeva" time="1.668">
+  <properties/>
+  <testcase name="topicUserUniqueness" classname="com.ttn.linksharingbootcamp.TopicSpec" time="1.668"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

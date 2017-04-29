@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ttn.linksharingbootcamp.DocumentResourceSpec" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-04-25T17:36:22" hostname="sargam-sachdeva" time="1.626">
+  <properties/>
+  <testcase name="validateDocumentResource" classname="com.ttn.linksharingbootcamp.DocumentResourceSpec" time="1.626"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

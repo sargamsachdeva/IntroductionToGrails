@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ttn.linksharingbootcamp.SubscriptionSpec" tests="6" skipped="0" failures="0" errors="0" timestamp="2017-04-27T10:25:21" hostname="sargam-sachdeva" time="1.832">
+  <properties/>
+  <testcase name="validatingSubscription[0]" classname="com.ttn.linksharingbootcamp.SubscriptionSpec" time="1.764"/>
+  <testcase name="validatingSubscription[1]" classname="com.ttn.linksharingbootcamp.SubscriptionSpec" time="0.006"/>
+  <testcase name="validatingSubscription[2]" classname="com.ttn.linksharingbootcamp.SubscriptionSpec" time="0.005"/>
+  <testcase name="validatingSubscription[3]" classname="com.ttn.linksharingbootcamp.SubscriptionSpec" time="0.005"/>
+  <testcase name="validatingDuplicateSubscription" classname="com.ttn.linksharingbootcamp.SubscriptionSpec" time="0.042"/>
+  <testcase name="toStringCheck[0]" classname="com.ttn.linksharingbootcamp.SubscriptionSpec" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

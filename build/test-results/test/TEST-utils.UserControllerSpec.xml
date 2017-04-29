@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="utils.UserControllerSpec" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-04-28T07:24:49" hostname="sargam-sachdeva" time="0.027">
+  <properties/>
+  <testcase name="testsomething" classname="utils.UserControllerSpec" time="0.027"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

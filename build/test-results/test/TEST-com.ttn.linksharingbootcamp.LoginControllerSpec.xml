@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ttn.linksharingbootcamp.LoginControllerSpec" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-04-28T07:23:07" hostname="sargam-sachdeva" time="2.21">
+  <properties/>
+  <testcase name="CheckLoginHandlerUserIsNotFound" classname="com.ttn.linksharingbootcamp.LoginControllerSpec" time="2.21"/>
+  <system-out><![CDATA[2017-04-28 12:53:07.569  INFO --- [    Test worker] o.s.w.c.s.GenericWebApplicationContext   : Refreshing org.springframework.web.context.support.GenericWebApplicationContext@53cded09: startup date [Fri Apr 28 12:53:07 IST 2017]; root of context hierarchy
+2017-04-28 12:53:07.864  INFO --- [    Test worker] g.plugins.DefaultGrailsPluginManager     : Attempting to load [0] user defined plugins
+2017-04-28 12:53:07.864  INFO --- [    Test worker] g.plugins.DefaultGrailsPluginManager     : Grails plug-in [eventBus] with version [3.2.8] loaded successfully
+2017-04-28 12:53:07.865  INFO --- [    Test worker] g.plugins.DefaultGrailsPluginManager     : Grails plug-in [core] with version [3.2.8] loaded successfully
+2017-04-28 12:53:09.442  WARN --- [    Test worker] o.g.d.mapping.core.DatastoreUtils        : Cannot unbind session, there's no SessionHolder registered
+2017-04-28 12:53:09.469  INFO --- [    Test worker] o.s.w.c.s.GenericWebApplicationContext   : Closing org.springframework.web.context.support.GenericWebApplicationContext@53cded09: startup date [Fri Apr 28 12:53:07 IST 2017]; root of context hierarchy
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

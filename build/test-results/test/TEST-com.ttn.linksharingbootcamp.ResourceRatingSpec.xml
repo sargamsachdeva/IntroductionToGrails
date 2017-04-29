@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ttn.linksharingbootcamp.ResourceRatingSpec" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-04-27T10:26:10" hostname="sargam-sachdeva" time="1.658">
+  <properties/>
+  <testcase name="checkResourceRating" classname="com.ttn.linksharingbootcamp.ResourceRatingSpec" time="1.658"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
